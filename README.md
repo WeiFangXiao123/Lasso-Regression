@@ -1,1 +1,1 @@
-# Lasso-Regression
+# Lasso Regression: Predict Annual Salary
